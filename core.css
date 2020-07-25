@@ -93,7 +93,7 @@ textarea, a {
     border-radius: 4px;
 }
 
-.block-highlight-blue {
+.block-highlight-blue, .block-highlight-yellow {
     background-color: rgba(var(--color-primary), 0.2)
 }
 
