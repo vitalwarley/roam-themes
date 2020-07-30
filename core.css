@@ -97,6 +97,10 @@ textarea, a {
     background-color: rgba(var(--color-primary), 0.2)
 }
 
+.rm-quick-capture-sync-modal {
+    background-color: rgba(var(--color-primary), 0.2);
+}
+
 .starred-pages a {
     color: rgb(var(--color-primary)) !important;
 }
